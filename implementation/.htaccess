@@ -1,0 +1,2 @@
+AuthName "dev"
+AuthUserFile "/home/dakesch/.htpasswds/public_html/andis-ticketing/passwd"
